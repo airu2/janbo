@@ -1,0 +1,60 @@
+*{}
+body{
+    width: 100%;
+    text-align: center;}
+li,ul {margin:0px; padding:0px;list-style:none;}
+td,th{padding:5px}
+#container{
+    width: 90%;
+    margin: 0 auto;
+    text-align: left;
+}
+A:link {COLOR: #0000ff;TEXT-DECORATION: none;}
+A:visited {COLOR: #0000ff;TEXT-DECORATION: none;}
+A:hover {COLOR: #0000ff;text-decoration:underline;}
+.new{
+	color:#ffa500;
+	font-weight			: bold;
+}
+#hNav{
+/*margin-bottom:10px; */
+padding-bottom:5px;
+}
+#hNav li  {float:left;border-left:1px solid #666666;padding:0px 10px 0px 10px;}
+h1{
+	color:#333333;font-size:18px;margin-bottom:5px;}
+h3{color:#333333;margin-bottom:10px;}
+.td0{padding:0px;}
+dd{padding-left:37px;}
+
+
+.ads1{ /* インデックスの上 */
+border:1px solid #8080c0;
+}
+.ads1-in{float:left;}
+#ads2{  /* 個別記事の上 */
+	margin:15px 0px 15px 37px;
+}
+#ads3{
+text-align:left;
+border:1px solid #8080c0;
+}
+#toplink{border:1px solid #8080c0;padding:0px 0px 10px 0px;}
+#toplink li#top{
+	font-weight	: bold;
+	color:#ffffff;
+	background-color:#8080c0;
+	padding:7px;
+}
+#toplink li.url{
+margin:0px 0px 0px 10px;
+background:url(http://pokemon-style.com/img/bbs/kouryaku.gif) no-repeat 0 10;
+padding:10px 0px 0px 20px;
+}
+#toplink li.url-kanri{
+margin:0px 0px 0px 10px;
+background:url(http://pokemon-style.com/img/bbs/kanrisha.gif) no-repeat 0 10;
+padding:10px 0px 0px 20px;
+}
+#newsure-chuui{margin:20px;}
+#newsure-chuui li{list-style-type:disc;text-align:left;padding-top:3px;}
